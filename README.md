@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Karam 
 - 👀 I’m interested in embeded systems field
-- 🌱 I’m currently learning c , c++ and going to start an embeded systems course this summer 
+- 🌱 I’m currently busy in university and going to start an embeded systems course this summer . 
 
 - 📫 How to reach me (androw.20371160@eng.aun.edu.eg)
 
